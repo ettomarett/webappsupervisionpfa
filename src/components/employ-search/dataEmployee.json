@@ -1,0 +1,427 @@
+[
+  {
+    "employeeID": 180,
+    "Role": "Employee",
+    "Score": 60,
+    "Floor": 8,
+    "Office": 2,
+    "EquipImg": "https://i.postimg.cc/63ybH2S0/employee-svgrepo-com.png"
+  },
+  {
+    "employeeID": 18,
+    "Role": "Employee",
+    "Score": 25,
+    "Floor": 2,
+    "Office": 8,
+    "EquipImg": "https://i.postimg.cc/MZfrVB1Z/employee-svgrepo-com1.png"
+  },
+  {
+    "employeeID": 41,
+    "Role": "Supervisor",
+    "Score": 33,
+    "Floor": 5,
+    "Office": 2,
+    "EquipImg": "https://i.postimg.cc/MZfrVB1Z/employee-svgrepo-com1.png"
+  },
+  {
+    "employeeID": 64,
+    "Role": "Supervisor",
+    "Score": 37,
+    "Floor": 9,
+    "Office": 7,
+    "EquipImg": "https://i.postimg.cc/MZfrVB1Z/employee-svgrepo-com1.png"
+  },
+  {
+    "employeeID": 84,
+    "Role": "Employee",
+    "Score": 81,
+    "Floor": 7,
+    "Office": 6,
+    "EquipImg": "https://i.postimg.cc/MZfrVB1Z/employee-svgrepo-com1.png"
+  },
+  {
+    "employeeID": 441,
+    "Role": "Supervisor",
+    "Score": 66,
+    "Floor": 1,
+    "Office": 8,
+    "EquipImg": "https://i.postimg.cc/MZfrVB1Z/employee-svgrepo-com1.png"
+  },
+  {
+    "employeeID": 7,
+    "Role": "Employee",
+    "Score": 84,
+    "Floor": 1,
+    "Office": 9,
+    "EquipImg": "https://i.postimg.cc/MZfrVB1Z/employee-svgrepo-com1.png"
+  },
+  {
+    "employeeID": 23,
+    "Role": "Employee",
+    "Score": 63,
+    "Floor": 7,
+    "Office": 2,
+    "EquipImg": "https://i.postimg.cc/MZfrVB1Z/employee-svgrepo-com1.png"
+  },
+  {
+    "employeeID": 590,
+    "Role": "Employee",
+    "Score": 6,
+    "Floor": 6,
+    "Office": 1,
+    "EquipImg": "https://i.postimg.cc/MZfrVB1Z/employee-svgrepo-com1.png"
+  },
+  {
+    "employeeID": 55,
+    "Role": "Employee",
+    "Score": 93,
+    "Floor": 6,
+    "Office": 6,
+    "EquipImg": "https://i.postimg.cc/63ybH2S0/employee-svgrepo-com.png"
+  },
+  {
+    "employeeID": 610,
+    "Role": "Supervisor",
+    "Score": 2,
+    "Floor": 4,
+    "Office": 4,
+    "EquipImg": "https://i.postimg.cc/MZfrVB1Z/employee-svgrepo-com1.png"
+  },
+  {
+    "employeeID": 53,
+    "Role": "Supervisor",
+    "Score": 44,
+    "Floor": 6,
+    "Office": 10,
+    "EquipImg": "https://i.postimg.cc/MZfrVB1Z/employee-svgrepo-com1.png"
+  },
+  {
+    "employeeID": 300,
+    "Role": "Employee",
+    "Score": 5,
+    "Floor": 8,
+    "Office": 5,
+    "EquipImg": "https://i.postimg.cc/63ybH2S0/employee-svgrepo-com.png"
+  },
+  {
+    "employeeID": 58,
+    "Role": "Employee",
+    "Score": 7,
+    "Floor": 9,
+    "Office": 6,
+    "EquipImg": "https://i.postimg.cc/63ybH2S0/employee-svgrepo-com.png"
+  },
+  {
+    "employeeID": 560,
+    "Role": "Employee",
+    "Score": 22,
+    "Floor": 7,
+    "Office": 5,
+    "EquipImg": "https://i.postimg.cc/MZfrVB1Z/employee-svgrepo-com1.png"
+  },
+  {
+    "employeeID": 56,
+    "Role": "Supervisor",
+    "Score": 43,
+    "Floor": 6,
+    "Office": 1,
+    "EquipImg": "https://i.postimg.cc/MZfrVB1Z/employee-svgrepo-com1.png"
+  },
+  {
+    "employeeID": 140,
+    "Role": "Supervisor",
+    "Score": 24,
+    "Floor": 4,
+    "Office": 9,
+    "EquipImg": "https://i.postimg.cc/MZfrVB1Z/employee-svgrepo-com1.png"
+  },
+  {
+    "employeeID": 89,
+    "Role": "Employee",
+    "Score": 87,
+    "Floor": 2,
+    "Office": 5,
+    "EquipImg": "https://i.postimg.cc/63ybH2S0/employee-svgrepo-com.png"
+  },
+  {
+    "employeeID": 156,
+    "Role": "Employee",
+    "Score": 36,
+    "Floor": 9,
+    "Office": 8,
+    "EquipImg": "https://i.postimg.cc/63ybH2S0/employee-svgrepo-com.png"
+  },
+  {
+    "employeeID": 28,
+    "Role": "Supervisor",
+    "Score": 93,
+    "Floor": 4,
+    "Office": 9,
+    "EquipImg": "https://i.postimg.cc/63ybH2S0/employee-svgrepo-com.png"
+  },
+  {
+    "employeeID": 60,
+    "Role": "Employee",
+    "Score": 22,
+    "Floor": 9,
+    "Office": 9,
+    "EquipImg": "https://i.postimg.cc/MZfrVB1Z/employee-svgrepo-com1.png"
+  },
+  {
+    "employeeID": 3,
+    "Role": "Employee",
+    "Score": 83,
+    "Floor": 4,
+    "Office": 5,
+    "EquipImg": "https://i.postimg.cc/MZfrVB1Z/employee-svgrepo-com1.png"
+  },
+  {
+    "employeeID": 99,
+    "Role": "Employee",
+    "Score": 38,
+    "Floor": 3,
+    "Office": 7,
+    "EquipImg": "https://i.postimg.cc/MZfrVB1Z/employee-svgrepo-com1.png"
+  },
+  {
+    "employeeID": 8,
+    "Role": "Supervisor",
+    "Score": 22,
+    "Floor": 1,
+    "Office": 7,
+    "EquipImg": "https://i.postimg.cc/MZfrVB1Z/employee-svgrepo-com1.png"
+  },
+  {
+    "employeeID": 37,
+    "Role": "Supervisor",
+    "Score": 15,
+    "Floor": 8,
+    "Office": 10,
+    "EquipImg": "https://i.postimg.cc/63ybH2S0/employee-svgrepo-com.png"
+  },
+  {
+    "employeeID": 63,
+    "Role": "Supervisor",
+    "Score": 35,
+    "Floor": 1,
+    "Office": 10,
+    "EquipImg": "https://i.postimg.cc/MZfrVB1Z/employee-svgrepo-com1.png"
+  },
+  {
+    "employeeID": 1,
+    "Role": "Employee",
+    "Score": 69,
+    "Floor": 2,
+    "Office": 1,
+    "EquipImg": "https://i.postimg.cc/MZfrVB1Z/employee-svgrepo-com1.png"
+  },
+  {
+    "employeeID": 33,
+    "Role": "Employee",
+    "Score": 9,
+    "Floor": 4,
+    "Office": 9,
+    "EquipImg": "https://i.postimg.cc/MZfrVB1Z/employee-svgrepo-com1.png"
+  },
+  {
+    "employeeID": 70,
+    "Role": "Employee",
+    "Score": 54,
+    "Floor": 8,
+    "Office": 1,
+    "EquipImg": "https://i.postimg.cc/MZfrVB1Z/employee-svgrepo-com1.png"
+  },
+  {
+    "employeeID": 411,
+    "Role": "Employee",
+    "Score": 3,
+    "Floor": 1,
+    "Office": 1,
+    "EquipImg": "https://i.postimg.cc/63ybH2S0/employee-svgrepo-com.png"
+  },
+  {
+    "employeeID": 69,
+    "Role": "Supervisor",
+    "Score": 88,
+    "Floor": 3,
+    "Office": 9,
+    "EquipImg": "https://i.postimg.cc/63ybH2S0/employee-svgrepo-com.png"
+  },
+  {
+    "employeeID": 91,
+    "Role": "Supervisor",
+    "Score": 92,
+    "Floor": 2,
+    "Office": 2,
+    "EquipImg": "https://i.postimg.cc/63ybH2S0/employee-svgrepo-com.png"
+  },
+  {
+    "employeeID": 31,
+    "Role": "Supervisor",
+    "Score": 12,
+    "Floor": 5,
+    "Office": 8,
+    "EquipImg": "https://i.postimg.cc/MZfrVB1Z/employee-svgrepo-com1.png"
+  },
+  {
+    "employeeID": 6,
+    "Role": "Employee",
+    "Score": 31,
+    "Floor": 2,
+    "Office": 5,
+    "EquipImg": "https://i.postimg.cc/MZfrVB1Z/employee-svgrepo-com1.png"
+  },
+  {
+    "employeeID": 59,
+    "Role": "Supervisor",
+    "Score": 61,
+    "Floor": 4,
+    "Office": 2,
+    "EquipImg": "https://i.postimg.cc/63ybH2S0/employee-svgrepo-com.png"
+  },
+
+  {
+    "employeeID": 95,
+    "Role": "Supervisor",
+    "Score": 50,
+    "Floor": 10,
+    "Office": 2,
+    "EquipImg": "https://i.postimg.cc/63ybH2S0/employee-svgrepo-com.png"
+  },
+  {
+    "employeeID": 54,
+    "Role": "Employee",
+    "Score": 30,
+    "Floor": 2,
+    "Office": 9,
+    "EquipImg": "https://i.postimg.cc/MZfrVB1Z/employee-svgrepo-com1.png"
+  },
+  {
+    "employeeID": 76,
+    "Role": "Supervisor",
+    "Score": 99,
+    "Floor": 8,
+    "Office": 9,
+    "EquipImg": "https://i.postimg.cc/63ybH2S0/employee-svgrepo-com.png"
+  },
+  {
+    "employeeID": 78,
+    "Role": "Employee",
+    "Score": 8,
+    "Floor": 2,
+    "Office": 4,
+    "EquipImg": "https://i.postimg.cc/63ybH2S0/employee-svgrepo-com.png"
+  },
+  {
+    "employeeID": 25,
+    "Role": "Supervisor",
+    "Score": 78,
+    "Floor": 8,
+    "Office": 2,
+    "EquipImg": "https://i.postimg.cc/MZfrVB1Z/employee-svgrepo-com1.png"
+  },
+  {
+    "employeeID": 71,
+    "Role": "Employee",
+    "Score": 96,
+    "Floor": 9,
+    "Office": 3,
+    "EquipImg": "https://i.postimg.cc/63ybH2S0/employee-svgrepo-com.png"
+  },
+  {
+    "employeeID": 701,
+    "Role": "Supervisor",
+    "Score": 44,
+    "Floor": 8,
+    "Office": 2,
+    "EquipImg": "https://i.postimg.cc/63ybH2S0/employee-svgrepo-com.png"
+  },
+  {
+    "employeeID": 488,
+    "Role": "Supervisor",
+    "Score": 72,
+    "Floor": 3,
+    "Office": 10,
+    "EquipImg": "https://i.postimg.cc/MZfrVB1Z/employee-svgrepo-com1.png"
+  },
+  {
+    "employeeID": 61,
+    "Role": "Employee",
+    "Score": 64,
+    "Floor": 7,
+    "Office": 10,
+    "EquipImg": "https://i.postimg.cc/MZfrVB1Z/employee-svgrepo-com1.png"
+  },
+  {
+    "employeeID": 73,
+    "Role": "Employee",
+    "Score": 60,
+    "Floor": 9,
+    "Office": 1,
+    "EquipImg": "https://i.postimg.cc/MZfrVB1Z/employee-svgrepo-com1.png"
+  },
+  {
+    "employeeID": 600,
+    "Role": "Supervisor",
+    "Score": 88,
+    "Floor": 6,
+    "Office": 9,
+    "EquipImg": "https://i.postimg.cc/MZfrVB1Z/employee-svgrepo-com1.png"
+  },
+  {
+    "employeeID": 640,
+    "Role": "Employee",
+    "Score": 40,
+    "Floor": 4,
+    "Office": 7,
+    "EquipImg": "https://i.postimg.cc/63ybH2S0/employee-svgrepo-com.png"
+  },
+  {
+    "employeeID": 45,
+    "Role": "Supervisor",
+    "Score": 41,
+    "Floor": 9,
+    "Office": 7,
+    "EquipImg": "https://i.postimg.cc/63ybH2S0/employee-svgrepo-com.png"
+  },
+  {
+    "employeeID": 14,
+    "Role": "Employee",
+    "Score": 7,
+    "Floor": 8,
+    "Office": 9,
+    "EquipImg": "https://i.postimg.cc/63ybH2S0/employee-svgrepo-com.png"
+  },
+  {
+    "employeeID": 98,
+    "Role": "Supervisor",
+    "Score": 85,
+    "Floor": 2,
+    "Office": 2,
+    "EquipImg": "https://i.postimg.cc/63ybH2S0/employee-svgrepo-com.png"
+  },
+  {
+    "employeeID": 40,
+    "Role": "Supervisor",
+    "Score": 4,
+    "Floor": 3,
+    "Office": 5,
+    "EquipImg": "https://i.postimg.cc/MZfrVB1Z/employee-svgrepo-com1.png"
+  },
+  {
+    "employeeID": 77,
+    "Role": "Supervisor",
+    "Score": 58,
+    "Floor": 2,
+    "Office": 5,
+    "EquipImg": "https://i.postimg.cc/63ybH2S0/employee-svgrepo-com.png"
+  },
+  {
+    "employeeID": 100,
+    "Role": "Supervisor",
+    "Score": 8,
+    "Floor": 1,
+    "Office": 4,
+    "EquipImg": "https://i.postimg.cc/MZfrVB1Z/employee-svgrepo-com1.png"
+  }
+]

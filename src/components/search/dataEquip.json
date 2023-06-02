@@ -1,0 +1,156 @@
+[
+  
+    {
+      "IDequipment": 31,
+      "Brand": "HP",
+      "Type": "laptop",
+      "PurchaseDate": "3/6/2022",
+      "IDowner": 53694,
+      "EquipementState": "good",
+      "EquipImg": "https://i.ibb.co/nzTB8xc/laptopx.png"
+    },
+    {
+      "IDequipment": 97,
+      "Brand": "HP",
+      "Type": "printer",
+      "PurchaseDate": "11/11/2022",
+      "IDowner": 36514,
+      "EquipementState": "bad",
+      "EquipImg": "https://i.ibb.co/SX5rG2x/printerx.png"
+    },
+    {
+      "IDequipment": 8,
+      "Brand": "Dell",
+      "Type": "laptop",
+      "PurchaseDate": "11/3/2022",
+      "IDowner": 8056,
+      "EquipementState": "decent",
+      "EquipImg": "https://i.ibb.co/nzTB8xc/laptopx.png"
+    },
+    {
+      "IDequipment": 4,
+      "Brand": "Markus",
+      "Type": "chair",
+      "PurchaseDate": "8/31/2022",
+      "IDowner": 42104,
+      "EquipementState": "good",
+      "EquipImg": "https://i.ibb.co/85PKCXm/chairx.png"
+    },
+    {
+      "IDequipment": 84,
+      "Brand": "Mac",
+      "Type": "printer",
+      "PurchaseDate": "1/13/2023",
+      "IDowner": 45085,
+      "EquipementState": "bad",
+      "EquipImg": "https://i.ibb.co/SX5rG2x/printerx.png"
+    },
+    {
+      "IDequipment": 88,
+      "Brand": "HP",
+      "Type": "chair",
+      "PurchaseDate": "1/8/2022",
+      "IDowner": 48920,
+      "EquipementState": "good",
+      "EquipImg": "https://i.ibb.co/85PKCXm/chairx.png"
+    },
+    {
+      "IDequipment": 24,
+      "Brand": "Asus",
+      "Type": "printer",
+      "PurchaseDate": "9/10/2023",
+      "IDowner": 94981,
+      "EquipementState": "bad",
+      "EquipImg": "https://i.ibb.co/SX5rG2x/printerx.png"
+    },
+    {
+      "IDequipment": 32,
+      "Brand": "Dell",
+      "Type": "chair",
+      "PurchaseDate": "9/16/2023",
+      "IDowner": 81942,
+      "EquipementState": "good",
+      "EquipImg": "https://i.ibb.co/85PKCXm/chairx.png"
+    },
+    {
+      "IDequipment": 11,
+      "Brand": "Dell",
+      "Type": "laptop",
+      "PurchaseDate": "12/14/2022",
+      "IDowner": 12550,
+      "EquipementState": "bad",
+      "EquipImg": "https://i.ibb.co/nzTB8xc/laptopx.png"
+    },
+    {
+      "IDequipment": 95,
+      "Brand": "HP",
+      "Type": "printer",
+      "PurchaseDate": "8/10/2022",
+      "IDowner": 88120,
+      "EquipementState": "good",
+      "EquipImg": "https://i.ibb.co/SX5rG2x/printerx.png"
+    },
+    {
+      "IDequipment": 54,
+      "Brand": "Mac",
+      "Type": "scanner",
+      "PurchaseDate": "8/20/2023",
+      "IDowner": 49486,
+      "EquipementState": "decent",
+      "EquipImg": "https://i.ibb.co/SX5rG2x/printerx.png"
+    },
+    {
+      "IDequipment": 57,
+      "Brand": "HP",
+      "Type": "laptop",
+      "PurchaseDate": "12/25/2023",
+      "IDowner": 62704,
+      "EquipementState": "bad",
+      "EquipImg": "https://i.ibb.co/nzTB8xc/laptopx.png"
+    },
+    {
+      "IDequipment": 953,
+      "Brand": "Dell",
+      "Type": "laptop",
+      "PurchaseDate": "12/9/2023",
+      "IDowner": 27025,
+      "EquipementState": "decent",
+      "EquipImg": "https://i.ibb.co/nzTB8xc/laptopx.png"
+    },
+    {
+      "IDequipment": 87,
+      "Brand": "Asus",
+      "Type": "scanner",
+      "PurchaseDate": "12/7/2022",
+      "IDowner": 93519,
+      "EquipementState": "decent",
+      "EquipImg": "https://i.ibb.co/85PKCXm/chairx.png"
+    },
+    {
+      "IDequipment": 72,
+      "Brand": "HP",
+      "Type": "laptop",
+      "PurchaseDate": "7/23/2022",
+      "IDowner": 21272,
+      "EquipementState": "good",
+      "EquipImg": "https://i.ibb.co/85PKCXm/chairx.png"
+    },
+    {
+      "IDequipment": 79,
+      "Brand": "HP",
+      "Type": "laptop",
+      "PurchaseDate": "3/7/2023",
+      "IDowner": 69443,
+      "EquipementState": "decent",
+      "EquipImg": "https://i.ibb.co/nzTB8xc/laptopx.png"
+    },
+    {
+      "IDequipment": 827,
+      "Brand": "Markus",
+      "Type": "desktop",
+      "PurchaseDate": "3/10/2022",
+      "IDowner": 80544,
+      "EquipementState": "bad",
+      "EquipImg": "https://i.ibb.co/SX5rG2x/printerx.png"
+    }
+  ]

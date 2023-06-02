@@ -1,0 +1,1334 @@
+[
+  {
+    "IDequipment": 61,
+    "Type": "printer",
+    "Request Date": "8/16/2023",
+    "IDowner": 93118,
+    "EquipementState": "good",
+    "EquipImg": "https://i.ibb.co/SX5rG2x/printerx.png",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 43,
+    "Type": "laptop",
+    "Request Date": "2/12/2023",
+    "IDowner": 26244,
+    "EquipementState": "bad",
+    "EquipImg": "https://i.ibb.co/nzTB8xc/laptopx.png",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 62,
+    "Type": "laptop",
+    "Request Date": "4/27/2023",
+    "IDowner": 83356,
+    "EquipementState": "good",
+    "EquipImg": "https://i.ibb.co/nzTB8xc/laptopx.png",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 2,
+    "Type": "printer",
+    "Request Date": "1/28/2022",
+    "IDowner": 66311,
+    "EquipementState": "decent",
+    "EquipImg": "https://i.ibb.co/SX5rG2x/printerx.png",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 56,
+    "Type": "printer",
+    "Request Date": "7/13/2022",
+    "IDowner": 3686,
+    "EquipementState": "decent",
+    "EquipImg": "https://i.ibb.co/SX5rG2x/printerx.png",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 69,
+    "Type": "chair",
+    "Request Date": "2/17/2022",
+    "IDowner": 51036,
+    "EquipementState": "decent",
+    "EquipImg": "https://i.ibb.co/85PKCXm/chairx.png",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 72,
+    "Type": "chair",
+    "Request Date": "12/6/2022",
+    "IDowner": 3767,
+    "EquipementState": "bad",
+    "EquipImg": "https://i.ibb.co/85PKCXm/chairx.png",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 53,
+    "Type": "laptop",
+    "Request Date": "11/17/2022",
+    "IDowner": 74338,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 25,
+    "Type": "printer",
+    "Request Date": "5/11/2023",
+    "IDowner": 3617,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 3,
+    "Type": "chair",
+    "Request Date": "11/10/2022",
+    "IDowner": 33380,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 49,
+    "Type": "printer",
+    "Request Date": "5/1/2022",
+    "IDowner": 30848,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 82,
+    "Type": "laptop",
+    "Request Date": "11/9/2023",
+    "IDowner": 46314,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 65,
+    "Type": "laptop",
+    "Request Date": "8/21/2022",
+    "IDowner": 90924,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 63,
+    "Type": "laptop",
+    "Request Date": "4/20/2022",
+    "IDowner": 9591,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 98,
+    "Type": "printer",
+    "Request Date": "2/11/2022",
+    "IDowner": 75945,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 29,
+    "Type": "laptop",
+    "Request Date": "2/25/2022",
+    "IDowner": 99741,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 53,
+    "Type": "laptop",
+    "Request Date": "8/14/2023",
+    "IDowner": 26778,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 24,
+    "Type": "laptop",
+    "Request Date": "6/3/2022",
+    "IDowner": 84159,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 27,
+    "Type": "laptop",
+    "Request Date": "10/12/2022",
+    "IDowner": 26673,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 14,
+    "Type": "printer",
+    "Request Date": "3/29/2022",
+    "IDowner": 72880,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 5,
+    "Type": "laptop",
+    "Request Date": "5/15/2022",
+    "IDowner": 72177,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 70,
+    "Type": "printer",
+    "Request Date": "4/17/2022",
+    "IDowner": 33479,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 3,
+    "Type": "chair",
+    "Request Date": "8/19/2023",
+    "IDowner": 32315,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 68,
+    "Type": "laptop",
+    "Request Date": "11/26/2023",
+    "IDowner": 59145,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 36,
+    "Type": "printer",
+    "Request Date": "10/28/2022",
+    "IDowner": 19908,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 50,
+    "Type": "chair",
+    "Request Date": "11/23/2022",
+    "IDowner": 54432,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 63,
+    "Type": "printer",
+    "Request Date": "7/29/2023",
+    "IDowner": 20174,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 67,
+    "Type": "printer",
+    "Request Date": "7/24/2022",
+    "IDowner": 64314,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 10,
+    "Type": "chair",
+    "Request Date": "6/24/2022",
+    "IDowner": 55309,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 100,
+    "Type": "printer",
+    "Request Date": "4/7/2022",
+    "IDowner": 25365,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 14,
+    "Type": "chair",
+    "Request Date": "5/1/2022",
+    "IDowner": 5158,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 96,
+    "Type": "chair",
+    "Request Date": "7/28/2022",
+    "IDowner": 9302,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 51,
+    "Type": "laptop",
+    "Request Date": "11/22/2023",
+    "IDowner": 88683,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 67,
+    "Type": "laptop",
+    "Request Date": "10/24/2023",
+    "IDowner": 18232,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 66,
+    "Type": "chair",
+    "Request Date": "11/19/2022",
+    "IDowner": 18468,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 16,
+    "Type": "chair",
+    "Request Date": "1/30/2022",
+    "IDowner": 57853,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 89,
+    "Type": "chair",
+    "Request Date": "8/3/2023",
+    "IDowner": 43374,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 97,
+    "Type": "laptop",
+    "Request Date": "5/27/2022",
+    "IDowner": 22364,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 25,
+    "Type": "printer",
+    "Request Date": "1/1/2023",
+    "IDowner": 3987,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 14,
+    "Type": "printer",
+    "Request Date": "10/26/2023",
+    "IDowner": 18200,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 87,
+    "Type": "laptop",
+    "Request Date": "1/27/2023",
+    "IDowner": 37402,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 71,
+    "Type": "printer",
+    "Request Date": "9/1/2022",
+    "IDowner": 95381,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 67,
+    "Type": "laptop",
+    "Request Date": "4/27/2022",
+    "IDowner": 7825,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 75,
+    "Type": "printer",
+    "Request Date": "8/4/2022",
+    "IDowner": 85294,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 72,
+    "Type": "laptop",
+    "Request Date": "2/6/2023",
+    "IDowner": 69664,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 76,
+    "Type": "printer",
+    "Request Date": "6/7/2022",
+    "IDowner": 76157,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 11,
+    "Type": "chair",
+    "Request Date": "1/21/2023",
+    "IDowner": 38274,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 35,
+    "Type": "laptop",
+    "Request Date": "9/28/2022",
+    "IDowner": 60181,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 65,
+    "Type": "chair",
+    "Request Date": "6/26/2022",
+    "IDowner": 35647,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 81,
+    "Type": "chair",
+    "Request Date": "8/31/2022",
+    "IDowner": 35693,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 21,
+    "Type": "laptop",
+    "Request Date": "2/1/2022",
+    "IDowner": 19815,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 57,
+    "Type": "laptop",
+    "Request Date": "4/22/2023",
+    "IDowner": 5280,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 56,
+    "Type": "printer",
+    "Request Date": "2/25/2022",
+    "IDowner": 46445,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 83,
+    "Type": "printer",
+    "Request Date": "8/13/2023",
+    "IDowner": 19285,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 72,
+    "Type": "printer",
+    "Request Date": "3/12/2023",
+    "IDowner": 12606,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 69,
+    "Type": "laptop",
+    "Request Date": "2/23/2023",
+    "IDowner": 81042,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 99,
+    "Type": "chair",
+    "Request Date": "3/18/2022",
+    "IDowner": 42475,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 79,
+    "Type": "laptop",
+    "Request Date": "11/22/2023",
+    "IDowner": 94431,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 64,
+    "Type": "printer",
+    "Request Date": "10/20/2023",
+    "IDowner": 30743,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 26,
+    "Type": "laptop",
+    "Request Date": "7/27/2023",
+    "IDowner": 85705,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 45,
+    "Type": "printer",
+    "Request Date": "7/31/2023",
+    "IDowner": 20010,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 45,
+    "Type": "chair",
+    "Request Date": "7/25/2023",
+    "IDowner": 82002,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 18,
+    "Type": "chair",
+    "Request Date": "1/9/2022",
+    "IDowner": 51056,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 41,
+    "Type": "laptop",
+    "Request Date": "2/3/2023",
+    "IDowner": 44605,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 90,
+    "Type": "printer",
+    "Request Date": "1/1/2022",
+    "IDowner": 16648,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 74,
+    "Type": "chair",
+    "Request Date": "11/23/2023",
+    "IDowner": 6915,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 17,
+    "Type": "chair",
+    "Request Date": "1/17/2023",
+    "IDowner": 96062,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 15,
+    "Type": "laptop",
+    "Request Date": "11/5/2022",
+    "IDowner": 21779,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 13,
+    "Type": "laptop",
+    "Request Date": "1/5/2023",
+    "IDowner": 23669,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 69,
+    "Type": "chair",
+    "Request Date": "1/5/2023",
+    "IDowner": 53377,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 86,
+    "Type": "printer",
+    "Request Date": "3/12/2023",
+    "IDowner": 93864,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 27,
+    "Type": "printer",
+    "Request Date": "3/28/2023",
+    "IDowner": 95481,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 56,
+    "Type": "chair",
+    "Request Date": "8/4/2023",
+    "IDowner": 13232,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 65,
+    "Type": "printer",
+    "Request Date": "8/8/2023",
+    "IDowner": 27601,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 90,
+    "Type": "laptop",
+    "Request Date": "10/6/2022",
+    "IDowner": 10103,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 80,
+    "Type": "laptop",
+    "Request Date": "10/22/2022",
+    "IDowner": 82750,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 15,
+    "Type": "laptop",
+    "Request Date": "1/16/2023",
+    "IDowner": 66365,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 7,
+    "Type": "chair",
+    "Request Date": "5/19/2023",
+    "IDowner": 22934,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 13,
+    "Type": "printer",
+    "Request Date": "12/28/2022",
+    "IDowner": 10962,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 59,
+    "Type": "printer",
+    "Request Date": "10/25/2023",
+    "IDowner": 76683,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 43,
+    "Type": "chair",
+    "Request Date": "7/22/2023",
+    "IDowner": 83335,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 86,
+    "Type": "laptop",
+    "Request Date": "12/12/2022",
+    "IDowner": 54334,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 35,
+    "Type": "printer",
+    "Request Date": "3/21/2023",
+    "IDowner": 80406,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 13,
+    "Type": "printer",
+    "Request Date": "10/20/2023",
+    "IDowner": 88451,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 28,
+    "Type": "laptop",
+    "Request Date": "1/20/2022",
+    "IDowner": 69057,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 9,
+    "Type": "printer",
+    "Request Date": "1/29/2023",
+    "IDowner": 42525,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 100,
+    "Type": "chair",
+    "Request Date": "10/6/2022",
+    "IDowner": 3021,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 61,
+    "Type": "laptop",
+    "Request Date": "6/10/2023",
+    "IDowner": 83273,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 57,
+    "Type": "printer",
+    "Request Date": "5/25/2023",
+    "IDowner": 28538,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 99,
+    "Type": "chair",
+    "Request Date": "11/11/2022",
+    "IDowner": 86567,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 90,
+    "Type": "chair",
+    "Request Date": "11/17/2023",
+    "IDowner": 95536,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 86,
+    "Type": "laptop",
+    "Request Date": "11/25/2023",
+    "IDowner": 85905,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 46,
+    "Type": "laptop",
+    "Request Date": "2/8/2022",
+    "IDowner": 20222,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 24,
+    "Type": "laptop",
+    "Request Date": "3/7/2022",
+    "IDowner": 52317,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 21,
+    "Type": "laptop",
+    "Request Date": "4/6/2023",
+    "IDowner": 56741,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 17,
+    "Type": "chair",
+    "Request Date": "7/18/2023",
+    "IDowner": 82411,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 29,
+    "Type": "printer",
+    "Request Date": "8/27/2023",
+    "IDowner": 29807,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 35,
+    "Type": "chair",
+    "Request Date": "11/16/2023",
+    "IDowner": 75630,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 92,
+    "Type": "chair",
+    "Request Date": "3/2/2023",
+    "IDowner": 68373,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 91,
+    "Type": "chair",
+    "Request Date": "1/20/2023",
+    "IDowner": 43467,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 11,
+    "Type": "chair",
+    "Request Date": "2/3/2023",
+    "IDowner": 22928,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 99,
+    "Type": "printer",
+    "Request Date": "9/25/2022",
+    "IDowner": 88411,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 21,
+    "Type": "printer",
+    "Request Date": "6/2/2023",
+    "IDowner": 9725,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 93,
+    "Type": "printer",
+    "Request Date": "10/13/2023",
+    "IDowner": 68780,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 16,
+    "Type": "printer",
+    "Request Date": "5/26/2022",
+    "IDowner": 13362,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 65,
+    "Type": "chair",
+    "Request Date": "1/24/2022",
+    "IDowner": 65889,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 82,
+    "Type": "printer",
+    "Request Date": "9/13/2022",
+    "IDowner": 8013,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 23,
+    "Type": "chair",
+    "Request Date": "2/19/2023",
+    "IDowner": 47611,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 15,
+    "Type": "chair",
+    "Request Date": "2/10/2023",
+    "IDowner": 25636,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 67,
+    "Type": "printer",
+    "Request Date": "12/31/2022",
+    "IDowner": 16348,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 59,
+    "Type": "chair",
+    "Request Date": "7/3/2023",
+    "IDowner": 18992,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 59,
+    "Type": "laptop",
+    "Request Date": "4/9/2022",
+    "IDowner": 23857,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 99,
+    "Type": "laptop",
+    "Request Date": "7/14/2023",
+    "IDowner": 35673,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 85,
+    "Type": "laptop",
+    "Request Date": "9/9/2023",
+    "IDowner": 89816,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 49,
+    "Type": "chair",
+    "Request Date": "11/12/2022",
+    "IDowner": 43467,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 54,
+    "Type": "laptop",
+    "Request Date": "7/19/2023",
+    "IDowner": 33173,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 30,
+    "Type": "laptop",
+    "Request Date": "12/5/2023",
+    "IDowner": 73025,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 93,
+    "Type": "laptop",
+    "Request Date": "5/20/2023",
+    "IDowner": 51631,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 83,
+    "Type": "laptop",
+    "Request Date": "11/5/2023",
+    "IDowner": 86473,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 27,
+    "Type": "printer",
+    "Request Date": "3/23/2022",
+    "IDowner": 38720,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 99,
+    "Type": "chair",
+    "Request Date": "3/13/2023",
+    "IDowner": 12759,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 47,
+    "Type": "printer",
+    "Request Date": "9/7/2022",
+    "IDowner": 37298,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 99,
+    "Type": "printer",
+    "Request Date": "11/20/2023",
+    "IDowner": 96682,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 79,
+    "Type": "printer",
+    "Request Date": "4/17/2023",
+    "IDowner": 50534,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 33,
+    "Type": "printer",
+    "Request Date": "12/1/2022",
+    "IDowner": 78481,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 80,
+    "Type": "laptop",
+    "Request Date": "10/12/2023",
+    "IDowner": 34142,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 49,
+    "Type": "chair",
+    "Request Date": "3/16/2023",
+    "IDowner": 54194,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 71,
+    "Type": "laptop",
+    "Request Date": "7/6/2023",
+    "IDowner": 80306,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 2,
+    "Type": "chair",
+    "Request Date": "8/15/2023",
+    "IDowner": 38164,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 26,
+    "Type": "chair",
+    "Request Date": "6/29/2023",
+    "IDowner": 43993,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 49,
+    "Type": "printer",
+    "Request Date": "1/14/2023",
+    "IDowner": 6811,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 22,
+    "Type": "chair",
+    "Request Date": "10/29/2023",
+    "IDowner": 83683,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 7,
+    "Type": "chair",
+    "Request Date": "8/27/2022",
+    "IDowner": 82841,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 18,
+    "Type": "laptop",
+    "Request Date": "4/20/2022",
+    "IDowner": 81870,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 90,
+    "Type": "chair",
+    "Request Date": "5/27/2023",
+    "IDowner": 25383,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 53,
+    "Type": "printer",
+    "Request Date": "12/1/2023",
+    "IDowner": 60793,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 61,
+    "Type": "chair",
+    "Request Date": "10/28/2023",
+    "IDowner": 39092,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 37,
+    "Type": "chair",
+    "Request Date": "1/9/2023",
+    "IDowner": 32933,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 53,
+    "Type": "chair",
+    "Request Date": "3/26/2023",
+    "IDowner": 84366,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 74,
+    "Type": "chair",
+    "Request Date": "5/11/2023",
+    "IDowner": 86917,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 56,
+    "Type": "chair",
+    "Request Date": "6/25/2023",
+    "IDowner": 89513,
+    "EquipementState": "bad",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 34,
+    "Type": "laptop",
+    "Request Date": "10/25/2023",
+    "IDowner": 53520,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 68,
+    "Type": "printer",
+    "Request Date": "11/15/2022",
+    "IDowner": 37384,
+    "EquipementState": "bad",
+    "EquipImg": "https://i.ibb.co/SX5rG2x/printerx.png",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 64,
+    "Type": "laptop",
+    "Request Date": "4/1/2023",
+    "IDowner": 9384,
+    "EquipementState": "good",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 92,
+    "Type": "chair",
+    "Request Date": "8/10/2023",
+    "IDowner": 48057,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 78,
+    "Type": "printer",
+    "Request Date": "10/26/2023",
+    "IDowner": 92946,
+    "EquipementState": "good",
+    "EquipImg": "https://i.ibb.co/SX5rG2x/printerx.png",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 53,
+    "Type": "printer",
+    "Request Date": "9/22/2023",
+    "IDowner": 2573,
+    "EquipementState": "good",
+    "EquipImg": "https://i.ibb.co/SX5rG2x/printerx.png",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 3,
+    "Type": "laptop",
+    "Request Date": "2/27/2023",
+    "IDowner": 80085,
+    "EquipementState": "decent",
+    "EquipImg": "url",
+    "Comment": "Employee's optional Comment about the maintenance."
+  }
+]

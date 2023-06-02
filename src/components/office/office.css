@@ -1,0 +1,32 @@
+.root {}
+
+.office01 {
+    position: absolute;
+    left: 30%;
+    top: 35%;
+}
+
+.office02 {
+    position: absolute;
+    left: 45%;
+    top: 35%;
+    z-index: 1;
+}
+
+.office03 {
+    position: absolute;
+    left: 57%;
+    top: 35%;
+}
+
+.office04 {
+    position: absolute;
+    left: 42%;
+    top: 70%;
+}
+
+.office05 {
+    position: absolute;
+    left: 58%;
+    top: 75%;
+}

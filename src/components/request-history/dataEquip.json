@@ -1,0 +1,116 @@
+[
+  
+
+  
+  {
+    "IDequipment": 8,
+    "Brand": "Dell",
+    "Type": "Laptop",
+    "PurchaseDate": "11/3/2022",
+    "IDowner": 8056,
+    "EquipementState": "decent",
+    "EquipImg": "https://i.ibb.co/nzTB8xc/laptopx.png",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 4,
+    "Brand": "Markus",
+    "Type": "Chair",
+    "PurchaseDate": "8/31/2022",
+    "IDowner": 42104,
+    "EquipementState": "good",
+    "EquipImg": "https://i.ibb.co/85PKCXm/chairx.png",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 84,
+    "Brand": "Mac",
+    "Type": "Printer",
+    "PurchaseDate": "1/13/2023",
+    "IDowner": 45085,
+    "EquipementState": "bad",
+    "EquipImg": "https://i.ibb.co/SX5rG2x/printerx.png",
+    "Comment": "Employee's optional Comment about the maintenance."
+  },
+  {
+    "IDequipment": 88,
+    "Brand": "HP",
+    "Type": "Chair",
+    "PurchaseDate": "1/8/2022",
+    "IDowner": 48920,
+    "EquipementState": "good",
+    "EquipImg": "https://i.ibb.co/85PKCXm/chairx.png"
+  },
+  {
+    "IDequipment": 24,
+    "Brand": "Asus",
+    "Type": "Printer",
+    "PurchaseDate": "9/10/2023",
+    "IDowner": 94981,
+    "EquipementState": "bad",
+    "EquipImg": "https://i.ibb.co/SX5rG2x/printerx.png"
+  },
+  {
+    "IDequipment": 32,
+    "Brand": "Dell",
+    "Type": "Chair",
+    "PurchaseDate": "9/16/2023",
+    "IDowner": 81942,
+    "EquipementState": "good",
+    "EquipImg": "https://i.ibb.co/85PKCXm/chairx.png"
+  },
+  {
+    "IDequipment": 11,
+    "Brand": "Dell",
+    "Type": "Laptop",
+    "PurchaseDate": "12/14/2022",
+    "IDowner": 12550,
+    "EquipementState": "bad",
+    "EquipImg": "https://i.ibb.co/nzTB8xc/laptopx.png"
+  },
+  {
+    "IDequipment": 95,
+    "Brand": "HP",
+    "Type": "Printer",
+    "PurchaseDate": "8/10/2022",
+    "IDowner": 88120,
+    "EquipementState": "good",
+    "EquipImg": "https://i.ibb.co/SX5rG2x/printerx.png"
+  },
+  {
+    "IDequipment": 54,
+    "Brand": "Mac",
+    "Type": "Scanner",
+    "PurchaseDate": "8/20/2023",
+    "IDowner": 49486,
+    "EquipementState": "decent",
+    "EquipImg": "https://i.ibb.co/SX5rG2x/printerx.png"
+  },
+  {
+    "IDequipment": 57,
+    "Brand": "HP",
+    "Type": "Laptop",
+    "PurchaseDate": "12/25/2023",
+    "IDowner": 62704,
+    "EquipementState": "bad",
+    "EquipImg": "https://i.ibb.co/nzTB8xc/laptopx.png"
+  },
+  {
+    "IDequipment": 953,
+    "Brand": "Dell",
+    "Type": "Laptop",
+    "PurchaseDate": "12/9/2023",
+    "IDowner": 27025,
+    "EquipementState": "decent",
+    "EquipImg": "https://i.ibb.co/nzTB8xc/laptopx.png"
+  },
+  {
+    "IDequipment": 87,
+    "Brand": "Asus",
+    "Type": "Scanner",
+    "PurchaseDate": "12/7/2022",
+    "IDowner": 93519,
+    "EquipementState": "decent",
+    "EquipImg": "https://i.ibb.co/85PKCXm/chairx.png"
+  }
+]
